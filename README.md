@@ -1,6 +1,4 @@
-LIGHTWEIGHT BABY
-LIGHTWEIGHT BABY
-LIGHTWEIGHT BABY
+**200 word essay**
 
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DojoSoMope&theme=gruvbox&no-bg=false&title=Commit,Repositories,PullRequest&margin-w=15&no-frame=false)
