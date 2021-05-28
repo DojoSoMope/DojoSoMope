@@ -1,4 +1,4 @@
 > **200 word essay**
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DojoSoMope&theme=gruvbox&no-bg=false&title=Commit,Repositories,PullRequest&margin-w=15&no-frame=false)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ezeoleaf&count_private=true&show_icons=true&theme=react)](https://github.com/DojoSoMope)
